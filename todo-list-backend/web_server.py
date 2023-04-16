@@ -8,7 +8,7 @@ FOLDER = 'D:\\rainm\pythonProject\\todo-list-backend\\tmp'
 
 @app.route('/')
 def hello_world():
-    return '<p>Hello, World</p>'
+    return '<p>Hello, Alex</p>'
 
 
 @app.route('/api/entries/')
